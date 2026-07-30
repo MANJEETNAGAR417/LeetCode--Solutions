@@ -25,4 +25,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
