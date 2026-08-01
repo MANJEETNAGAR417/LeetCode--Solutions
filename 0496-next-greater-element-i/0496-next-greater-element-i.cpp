@@ -4,13 +4,18 @@ public:
         stack<int>st;
         unordered_map<int,int>mpp;
         for(int i=nums2.size()-1;i>=0;i--){
-            while(!st.empty() && st.top()<=nums2[i])st.pop();
+            while(!st.empty() && nums2[i]>st.top()){
+                st.pop();
+            }
             if(st.empty())mpp[nums2[i]]=-1;
-            else mpp[nums2[i]]=st.top();
+            else{
+                if(nums2[i]<st.top())mpp[nums2[i]]=st.top();
+                else mpp[nums2[i]]=-1;
+            }
             st.push(nums2[i]);
         }
         vector<int>temp;
-        for(auto it:nums1){
+        for(auto it: nums1){
             temp.push_back(mpp[it]);
         }
         return temp;
