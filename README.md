@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0075-sort-colors) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0189-rotate-array) |
