@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0042-trapping-rain-water) |
@@ -48,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
