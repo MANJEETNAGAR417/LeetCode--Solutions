@@ -41,6 +41,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0001-two-sum](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0496-next-greater-element-i) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0169-majority-element) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
