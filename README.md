@@ -29,6 +29,7 @@
 | [0031-next-permutation](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0283-move-zeroes) |
 ## Math
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
 | ------- |
