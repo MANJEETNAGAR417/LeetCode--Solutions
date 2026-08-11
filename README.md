@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,4 +119,5 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
