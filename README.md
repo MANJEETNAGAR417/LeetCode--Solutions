@@ -19,6 +19,7 @@
 | [0088-merge-sorted-array](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0283-move-zeroes) |
@@ -119,5 +120,6 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MANJEETNAGAR417/LeetCode--Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
